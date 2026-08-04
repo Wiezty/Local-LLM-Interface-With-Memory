@@ -1,4 +1,4 @@
-# 🤖 Ollama & Llama 3 Tabanlı Kalıcı Hafızalı Yapay Zeka Arayüzü
+# 🤖 Ollama & Llama 3 Tabanlı Kalıcı Hafızalı Yapay Zeka Sistemi
 
 > 📅 **Proje Geçmişi ve Yayın Notu:**  
 > Bu proje, **lise dönemimde (geçmiş yıllarda)** yerel yapay zeka modelleri üzerine yaptığım bireysel çalışmalar ve denemeler sırasında geliştirilmiştir. Geliştirme süreci geçmişte tamamlanmış olan bu çalışma, portfolyomun bir parçası olarak **günümüz itibarıyla** arşivden çıkarılarak GitHub üzerinde ilk kez yayına alınmıştır.
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🤖 Ollama & Llama 3 Based Local LLM Web UI with Persistent Memory
+# 🤖 Ollama & Llama 3 Based Local LLM with Persistent Memory
 
 > 📅 **Project Background & Release Note:**  
 > This project was individually developed during my **high school years** as part of my personal research and experiments on local Large Language Models (LLMs). Having completed the development phase in the past, this work has now been retrieved from my personal archives and published on GitHub for the first time as a core element of my academic portfolio.
